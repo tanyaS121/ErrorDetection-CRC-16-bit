@@ -1,2 +1,1 @@
-C codes for : 
-<br>-->  Frame sorting technique using buffers
+C code for Frame sorting technique using buffers
